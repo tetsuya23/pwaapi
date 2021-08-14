@@ -1,0 +1,24 @@
+{
+    "products":[
+        {"id":1,"name":"Lion, asian","category":"Pink"},
+        {"id":2,"name":"Sea birds (unidentified)","category":"Violet"},
+        {"id":3,"name":"White-necked stork","category":"Blue"},
+        {"id":4,"name":"Malleefowl","category":"Orange"},
+        {"id":5,"name":"Collared lizard","category":"Violet"},
+        {"id":6,"name":"Stork, black-necked","category":"Green"},
+        {"id":7,"name":"Red deer","category":"Khaki"},
+        {"id":8,"name":"Sidewinder","category":"Blue"},
+        {"id":9,"name":"Starling, red-shouldered glossy","category":"Orange"},
+        {"id":10,"name":"Macaw, green-winged","category":"Violet"},
+        {"id":11,"name":"Openbill stork","category":"Violet"},
+        {"id":12,"name":"Deer, barasingha","category":"Yellow"},
+        {"id":13,"name":"Wild turkey","category":"Orange"},
+        {"id":14,"name":"Sandpiper, spotted wood","category":"Red"},
+        {"id":15,"name":"Monitor, water","category":"Green"},
+        {"id":16,"name":"Black-necked stork","category":"Mauv"},
+        {"id":17,"name":"Cormorant, king","category":"Fuscia"},
+        {"id":18,"name":"American crow","category":"Puce"},
+        {"id":19,"name":"Wild boar","category":"Mauv"},
+        {"id":20,"name":"Penguin, little blue","category":"Yellow"}
+    ]
+}
